@@ -1,4 +1,5 @@
-### Hi there 👋
+🤔 제 github 페이지 소개는 어느정도 깃헙으로서의 구색이 갖춰지고 
+🌱 잔디밭이 커지기 시작할 때 제대로 꾸며서 써볼 예정입니다.
 
 <!--
 **7726/7726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
