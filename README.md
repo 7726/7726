@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-<h2 align="center">👋 Hi, I'm Jo (Jiho Yoon)</h2>
+<h2 align="center">👋 Hi, I'm BINGO (Jiho Yoon)</h2>
 <p align="center">
   자바 & 스프링 기반 백엔드 개발자로 커리어 전환 중인 개발자입니다.<br/>
   레거시 웹(Classic ASP) 실무 경험을 바탕으로, 모던 백엔드 아키텍처를 꾸준히 익히고 있어요.
