@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 공부 중인 Tech Stack
 
 **Backend**
 
