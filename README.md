@@ -22,7 +22,7 @@
 
 * **Languages:** Java 17+, SQL (Query Tuning)
 * **Frameworks:** Spring Boot 3, Spring Data JPA, QueryDSL
-* **Infrastructure:** AWS (EC2, RDS, S3), Docker, CI/CD (Github Actions)
+* **Infrastructure:** AWS (EC2, RDS, S3), CI/CD (Github Actions)
 * **Adaptable To:** Python, Go, Node.js (Open to learning & applying)
 
 ---
