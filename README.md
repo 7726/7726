@@ -20,8 +20,8 @@
 
 ### 🔧 Tech Stack
 
-* **Languages:** Java 17+, SQL (Query Tuning)
-* **Frameworks:** Spring Boot 3, Spring Data JPA, QueryDSL
+* **Languages:** Java 17, Python 3.12, SQL (Query Tuning)
+* **Frameworks:** Spring Boot 3, FastAPI, Spring Data JPA, QueryDSL
 * **Infrastructure:** AWS (EC2, RDS, S3), CI/CD (Github Actions)
 * **Adaptable To:** Python, Go, Node.js (Open to learning & applying)
 
