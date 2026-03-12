@@ -22,12 +22,5 @@
 
 * **Languages:** Java 17, Python 3.12, SQL (Query Tuning)
 * **Frameworks:** Spring Boot 3, FastAPI, Spring Data JPA, QueryDSL
-* **Infrastructure:** AWS (EC2, RDS, S3), CI/CD (Github Actions)
+* **Infrastructure:** AWS (EC2, RDS, S3), CI/CD (Github Actions), Docker
 * **Adaptable To:** Python, Go, Node.js (Open to learning & applying)
-
----
-
-### 🎯 Objective
-
-단순히 "기능이 동작하는 코드"를 넘어, **유지보수성(Maintainability)**과 **확장성(Scalability)**을 고려한 설계를 지향합니다.
-AI 도구와 공식 문서를 적극적으로 활용하여 러닝 커브를 단축시키며, 비즈니스 요구사항을 기술적으로 가장 효율적일게 풀어내는 **'문제 해결사'**가 되는 것이 목표입니다.
