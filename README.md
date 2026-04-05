@@ -14,7 +14,7 @@
 ### 🙋‍♂️ Professional Experiences
 
 * **Core Engineering:** 5년 이상의 웹 서비스 핵심 비즈니스 로직 구현 (각종 B2C 서비스 - 게시판/문제은행/온라인 모의고사/상품 판매/프로모션 등)
-* **Data Handling:** 수억 건 이상의 대용량 데이터 운영 및 무결성/정합성 보장, 복잡한 쿼리 튜닝
+* **Data Handling:** 최대 수억 건 이상의 대용량 데이터 운영 및 무결성/정합성 보장, 복잡한 쿼리 튜닝
 * **Architecture:** On-premise 환경부터 AWS 클라우드 마이그레이션 기획 및 인프라 구축 경험
 
 ---
