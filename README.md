@@ -24,4 +24,4 @@
 * **Languages:** Classic ASP, Javascript, jQuery, Java 17, Python 3.12, SQL (Query Tuning)
 * **Frameworks:** Spring Boot 3, FastAPI, Spring Data JPA, QueryDSL
 * **Infrastructure:** AWS (EC2, RDS, S3, Lambda, ...), CI/CD (Github Actions), Docker
-* **LLM & AI Agent:** Gemini, Claude Code, Genspark, Tavily
+* **LLM & AI Agent:** Gemini Pro, Claude Code
