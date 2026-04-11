@@ -7,8 +7,6 @@
 
 특정 언어에 국한되지 않고 **Python, Java, Go, Node.js** 등 여러 언어와 기술을 빠르게 습득하여 적용하는 것에 열려있습니다.
 
-[https://github.com/7726](https://github.com/7726)
-
 ---
 
 ### 🙋‍♂️ Professional Experiences
